@@ -3,7 +3,8 @@ layout: category-post
 title:  "📦 r/WritingPrompts"
 date:   2024-02-26
 categories: writing
-tags: [challenges]
+tags:
+    - challenges
 ---
 
 # Prompt
