@@ -1,10 +1,10 @@
 ---
 layout: home
 permalink: "/"
-title: Athena Jekyll Theme
+title: stories of their lives.
 
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+A place where stories come to life.
 
 
