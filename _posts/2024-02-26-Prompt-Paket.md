@@ -1,7 +1,7 @@
 ---
 layout: category-post
 title:  "Writing Challenges: Prompts"
-date:   2024-02-26 20:20:56 -0400
+date:   2024-02-26
 categories: writing
 tags: challenges
 ---
