@@ -11,7 +11,7 @@ github_username: Closer2U
 theme_color: black
 
 # Theme
-#remote_theme: 'internet-de-france/swiss'
+remote_theme: 'internet-de-france/swiss'
 baseurl: '/invisible_nerds'
 
 # Defaults
