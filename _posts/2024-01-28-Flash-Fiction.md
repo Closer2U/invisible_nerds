@@ -13,10 +13,10 @@ tags:
 
 | Prompt |  |
 |:-----------|---------------|
-| *Splash!* | Ein dummer Streich. Sie war Nichtschwimmer |
+| *Splash!* | Ein dummer Streich. Sie war Nichtschwimmer. |
 | *Nein, hast du nicht!* | Das Tattoo war gestern noch nicht da. - Nein, Mama. |
 | *Titel deiner Memoiren [^1]* | Das soll ich gesagt haben?! Wann! |
-| *Unbeschrieben [^2]* | Unbeschriebene Blätter sind lere Seiten ohne Inhalt. |
+| *Unbeschrieben [^2]* | Unbeschriebene Blätter sind leere Seiten ohne Inhalt. |
 | *Verwechslung* | Mist, das war Kuli - kein Bleistift! <br> Drei Knoblauch*zehen*. Nicht ganze Knollen! |
 | *Sprachlos* | Durchbruch! Quantencomputer entwickelt. Verkauf ab morgen. |
 | *Geschenk* | Wenn sich der Käfig öffnet - flieg! |
@@ -26,7 +26,7 @@ tags:
 | *Vertraust du mir?* | Spring! - Von *da* oben?! - ... das ist das Ein-Meterbrett... |
 | *Keller [^3]* | Wo Gruselgeschichten geboren und Konserven vergessen werden. |
 | *Hotel* | "Suite mit Seeblick." - Tümpel im Garten.
-| *Torte* | "Zur Hochzeit!" Torte bestellt. Nie abgeholt. |
+| *Torte* | "Zur Hochzeit!" - Torte bestellt. Nie abgeholt. |
 | *Büro* | Wo Prokrastination ein neues Höchstmaß erreicht. <br> VSCode.reddit.VSCode.youtube.VSCode.Mittagspause. |
 | *Buch* | Warte kurz! - *Lesezeichen* - So, was gibt's? |
 | *Mist!* | Eigentlich war das als Spiegelei geplant... |
@@ -42,14 +42,14 @@ tags:
  
 ## ... im Aufzug
  
-     Diese Musik - *Bing!* 
-     Macht mich fertig! 
-     "*25. Etage. Tür öffnet-*" - "*Tür schließt.*" 
-     Ich will doch nur - "Ebenso".
-     Ich will doch nur! - "Nein, ich muss eine weiter."
-     Ich Will Doch Nur - "Ihnen auch."
-     ICH WILL DOCH NUR - "*Erdgeschoss.*"
-     ... in Ruhe Podcast hören...
+ Diese Musik - *Bing!* <br>
+ Macht mich fertig! <br>
+ "*25. Etage. Tür öffnet-*" - "*Tür schließt.*"  <br>
+ Ich will doch nur - "Ebenso". <br>
+ Ich will doch nur! - "Nein, ich muss eine weiter." <br>
+ Ich Will Doch Nur - "Ihnen auch." <br>
+ ICH WILL DOCH NUR - "*Erdgeschoss.*" <br>
+ ... in Ruhe Podcast hören... <br>
 
 # Twist of words to change the mood
 
