@@ -67,6 +67,7 @@ tags:
 - Du kleines Miststück, schneid doch endlich!
 - Du kleines Miststück, geh da durch!
 - Nicht jeder Schatten ist böse. Manche sehnen sich nur nach Licht.
+- She didn't move. He didn't stop.
 
       Lange Nächte 
       voller Lachen 
