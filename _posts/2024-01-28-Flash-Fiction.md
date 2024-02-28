@@ -33,6 +33,7 @@ tags:
  
 
 ## Antworten auf...
+
  | Prompt | |
  |:-------|---------|
  | "Wir haben ein Problem." | Noch eins? Stell dich hinten an. <br> Lass mich raten: Du bist Schuld? |
@@ -43,14 +44,14 @@ tags:
  
  ## ... im Aufzug
  
- >Diese Musik - *Bing!* <br>
- >Macht mich fertig! <br>
- >"*25. Etage. Tür öffnet-*" - "*Tür schließt.*" <br>
- >Ich will doch nur - "Ebenso". <br>
- >Ich will doch nur! - "Nein, ich muss eine weiter." <br>
- >Ich Will Doch Nur - "Ihnen auch." <br>
- >ICH WILL DOCH NUR - "*Erdgeschoss.*" <br>
- >... in Ruhe Podcast hören... <br>
+ Diese Musik - *Bing!* <br>
+ Macht mich fertig! <br>
+ "*25. Etage. Tür öffnet-*" - "*Tür schließt.*" <br>
+ Ich will doch nur - "Ebenso". <br>
+ Ich will doch nur! - "Nein, ich muss eine weiter." <br>
+ Ich Will Doch Nur - "Ihnen auch." <br>
+ ICH WILL DOCH NUR - "*Erdgeschoss.*" <br>
+ ... in Ruhe Podcast hören... <br>
 
 # Twist of words to change the mood
 
@@ -71,32 +72,42 @@ tags:
 
 <br>
 
->Lange Nächte <br>
->voller Lachen <br>
->auf Dachterassen <br>
->die die Zeit anhalten lassen. <br>
->Bloß nie lang genug, <br>
->sagt das morgen, <br>
->sagt das gestern, <br>
->das dich erinnert, <br>
->bis es schmerzt. <br>
+Lange Nächte <br>
+voller Lachen <br>
+auf Dachterassen <br>
+die die Zeit anhalten lassen. <br>
+Bloß nie lang genug, <br>
+sagt das morgen, <br>
+sagt das gestern, <br>
+das dich erinnert, <br>
+bis es schmerzt. <br>
 
 <br>
 
-Alternative Texte:
+## Alternative Texte:
 
-[^1]: Titel deiner Memoiren: 
-Cursed to remember. Desperate to forget.
+- Titel meiner Memoiren:
+      - Cursed to remember. Desperate to forget.
+- Unbeschrieben: <br>
+        Weiße Linien <br>
+        ,verblasst, <br>
+        wo noch keine Geschichte geschrieben, <br>
+        noch keine Enden besiegelt, <br>
+        waren [nur] der Anfang.
+- Keller/Dunkelheit: <br>
+      - In Dunkelheit geboren. <br>
+        Kein Entkommen, <br>
+        aber *wem* du durch die Nacht folgst, <br>
+        entscheidest du selbst.
+ 
+[^1]: Titel%20deiner%20Memoiren:
 
 [^2]: Unbeschrieben: 
-Weiße Linien <br>
-,verblasst, <br>
-wo noch keine Geschichte geschrieben, <br>
-noch keine Enden besiegelt, <br>
-waren [nur] der Anfang. <br>
+        Weiße Linien <br>
+        ,verblasst, <br>
+        wo noch keine Geschichte geschrieben, <br>
+        noch keine Enden besiegelt, <br>
+        waren [nur] der Anfang.
 
 [^3]: Keller/Dunkelheit:
-In Dunkelheit geboren. <br>
-Kein Entkommen, <br>
-aber *wem* du durch die Nacht folgst, <br>
-entscheidest du selbst. <br>
+
