@@ -31,7 +31,6 @@ tags:
 | *Buch* | Warte kurz! - *Lesezeichen* - So, was gibt's? |
 | *Mist!* | Eigentlich war das als Spiegelei geplant... |
  
-
 ## Antworten auf...
 
  | Prompt | |
@@ -39,10 +38,9 @@ tags:
  | "Wir haben ein Problem." | Noch eins? Stell dich hinten an. <br> Lass mich raten: Du bist Schuld? |
  | "Heute wird Geschichte geschrieben" | Nein! Bio ist heute, Geschichte morgen! |
 
+# 50 Worte oder weniger
  
- # 50 Worte oder weniger
- 
- ## ... im Aufzug
+## ... im Aufzug
  
  Diese Musik - *Bing!* <br>
  Macht mich fertig! <br>
@@ -55,10 +53,10 @@ tags:
 
 # Twist of words to change the mood
 
-| Prompt |  |
-|:--------|------|
-| "You're alive!" *Oh* "I survived?!" - FUCK! | "Good, you're alive." "I survived?" Damn. |
-| Wir können leben, ohne zu lachen. | Können wir Lachen, ohne zu leben. |
+| Prompt |  |  |
+|:--------|------|----|
+| "You're alive!" *Oh* "I survived?!" - FUCK! | vs. | "Good, you're alive." "I survived?" Damn. |
+| Wir können leben, ohne zu lachen. | vs. | Können wir Lachen, ohne zu leben. |
 
 
 # Misc.
@@ -70,23 +68,21 @@ tags:
 - Du kleines Miststück, geh da durch!
 - Nicht jeder Schatten ist böse. Manche sehnen sich nur nach Licht.
 
-<br>
-
-Lange Nächte <br>
-voller Lachen <br>
-auf Dachterassen <br>
-die die Zeit anhalten lassen. <br>
-Bloß nie lang genug, <br>
-sagt das morgen, <br>
-sagt das gestern, <br>
-das dich erinnert, <br>
-bis es schmerzt. <br>
+- Lange Nächte <br>
+  voller Lachen <br>
+  auf Dachterassen <br>
+  die die Zeit anhalten lassen. <br>
+  Bloß nie lang genug, <br>
+  sagt das morgen, <br>
+  sagt das gestern, <br>
+  das dich erinnert, <br>
+  bis es schmerzt. <br>
 
 <br>
 
 ## Alternative Texte:
 
-- Titel meiner Memoiren:
+- *Titel meiner Memoiren:*
       - Cursed to remember. Desperate to forget.
 - Unbeschrieben: <br>
         Weiße Linien <br>
@@ -100,9 +96,12 @@ bis es schmerzt. <br>
         aber *wem* du durch die Nacht folgst, <br>
         entscheidest du selbst.
  
-[^1]: Titel%20deiner%20Memoiren:
+[^1]: Memoiren:
 
+         Cursed to remember. Desperate to forget.
+         
 [^2]: Unbeschrieben: 
+         
         Weiße Linien <br>
         ,verblasst, <br>
         wo noch keine Geschichte geschrieben, <br>
@@ -110,4 +109,9 @@ bis es schmerzt. <br>
         waren [nur] der Anfang.
 
 [^3]: Keller/Dunkelheit:
+
+        In Dunkelheit geboren. <br>
+        Kein Entkommen, <br>
+        aber *wem* du durch die Nacht folgst, <br>
+        entscheidest du selbst.
 
