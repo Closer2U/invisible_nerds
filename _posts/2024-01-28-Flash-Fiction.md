@@ -9,10 +9,9 @@ tags:
 
 # 6 word challenge
 
-> [!NOTE] 
-> Manchmal hab ich vielleicht auch mehr gebraucht :stuck_out_tongue: </sup>
+<sup> Manchmal hab ich vielleicht auch mehr gebraucht 😛 </sup>
 
-| Prompt | |
+| Prompt |  |
 |:-----------|---------------|
 | *Splash!* | Ein dummer Streich. Sie war Nichtschwimmer |
 | *Nein, hast du nicht!* | Das Tattoo war gestern noch nicht da. - Nein, Mama. |
@@ -35,27 +34,28 @@ tags:
 
 ## Antworten auf...
  | Prompt | |
- |:------- |---------|
+ |:-------|---------|
  | "Wir haben ein Problem." | Noch eins? Stell dich hinten an. <br> Lass mich raten: Du bist Schuld? |
  | "Heute wird Geschichte geschrieben" | Nein! Bio ist heute, Geschichte morgen! |
+
  
  # 50 Worte oder weniger
  
  ## ... im Aufzug
  
- Diese Musik - *Bing!* <br>
- Macht mich fertig! <br>
- "*25. Etage. Tür öffnet-*" - "*Tür schließt.*" <br>
- Ich will doch nur - "Ebenso". <br>
- Ich will doch nur! - "Nein, ich muss eine weiter." <br>
- Ich Will Doch Nur - "Ihnen auch." <br>
- ICH WILL DOCH NUR - "*Erdgeschoss.*" <br>
- ... in Ruhe Podcast hören... <br>
+ >Diese Musik - *Bing!* <br>
+ >Macht mich fertig! <br>
+ >"*25. Etage. Tür öffnet-*" - "*Tür schließt.*" <br>
+ >Ich will doch nur - "Ebenso". <br>
+ >Ich will doch nur! - "Nein, ich muss eine weiter." <br>
+ >Ich Will Doch Nur - "Ihnen auch." <br>
+ >ICH WILL DOCH NUR - "*Erdgeschoss.*" <br>
+ >... in Ruhe Podcast hören... <br>
 
 # Twist of words to change the mood
 
 | Prompt |  |
-| :---- | --- |
+|:--------|------|
 | "You're alive!" *Oh* "I survived?!" - FUCK! | "Good, you're alive." "I survived?" Damn. |
 | Wir können leben, ohne zu lachen. | Können wir Lachen, ohne zu leben. |
 
@@ -71,30 +71,31 @@ tags:
 
 <br>
 
-Lange Nächte <br>
-voller Lachen <br>
-auf Dachterassen <br>
-die die Zeit anhalten lassen. <br>
-Bloß nie lang genug, <br>
-sagt das morgen, <br>
-sagt das gestern, <br>
-das dich erinnert, <br>
-bis es schmerzt. <br>
+>Lange Nächte <br>
+>voller Lachen <br>
+>auf Dachterassen <br>
+>die die Zeit anhalten lassen. <br>
+>Bloß nie lang genug, <br>
+>sagt das morgen, <br>
+>sagt das gestern, <br>
+>das dich erinnert, <br>
+>bis es schmerzt. <br>
 
 <br>
 
 Alternative Texte:
-[^1]: Titel deiner Memoiren: <br>
+
+[^1]: Titel deiner Memoiren: 
 Cursed to remember. Desperate to forget.
 
-[^2]: Unbeschrieben:  <br>
+[^2]: Unbeschrieben: 
 Weiße Linien <br>
 ,verblasst, <br>
 wo noch keine Geschichte geschrieben, <br>
 noch keine Enden besiegelt, <br>
 waren [nur] der Anfang. <br>
 
-[^3]: Keller/Dunkelheit: <br>
+[^3]: Keller/Dunkelheit:
 In Dunkelheit geboren. <br>
 Kein Entkommen, <br>
 aber *wem* du durch die Nacht folgst, <br>
