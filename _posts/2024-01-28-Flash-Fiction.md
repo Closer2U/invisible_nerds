@@ -92,7 +92,7 @@ tags:
         Weiße Linien 
         ,verblasst, 
         wo noch keine Geschichte geschrieben, 
-        noch keine Enden besiegelt, 
+        noch keine Enden besiegelt
         waren [nur] der Anfang.
 
 [^3]: Keller/Dunkelheit:
