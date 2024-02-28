@@ -72,7 +72,7 @@ tags:
       voller Lachen 
       auf Dachterassen 
       die die Zeit anhalten lassen. 
-      Bloß nie lang genug, 
+      Nie lange genug, 
       sagt das morgen,
       sagt das gestern, 
       das dich erinnert, 
