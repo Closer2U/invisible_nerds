@@ -71,7 +71,7 @@ tags:
 
       Lange Nächte 
       voller Lachen 
-      auf Dachterassen 
+      auf Dachterrassen 
       die die Zeit anhalten lassen. 
       Nie lange genug, 
       sagt das morgen,
