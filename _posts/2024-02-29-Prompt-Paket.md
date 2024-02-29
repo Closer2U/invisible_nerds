@@ -27,7 +27,7 @@ tags:
 
 Meine Augen brennen, die Netzhaut mit Sandpapier abgeschmirgelt, vom angestrengten Starren auf den hell flackernden Monitor. Ich presse meine Handballen fester in die Augäpfel, doch selbst nach heftigem Wischen und Reiben und Blinzeln kann ich sie nicht zum Fokussieren bewegen. 
 Stattdessen schweben jetzt überall bunt schillernde Formen durch mein Sichtfeld. Super. Genau, was ich brauche. <br>
-Frustriert stoße ich meinen Bürostuhl mit Schwung vom Schreibtisch, rolle nach hinten , komme an der Teppichkante zum Stehen und zucke schmerzerfüllt zusammen, als das vertraute Schleifgeräusch verrät, dass ich die Bodenschutzmatte verfehlt und mal wieder das Parkett erwischt habe. 
+Frustriert stoße ich meinen Bürostuhl mit Schwung vom Schreibtisch, rolle nach hinten, komme an der Teppichkante zum Stehen und zucke schmerzerfüllt zusammen, als das vertraute Schleifgeräusch verrät, dass ich die Bodenschutzmatte verfehlt und mal wieder das Parkett erwischt habe. 
 
 Es wird wirklich Zeit für eine Pause, oder? 
 
