@@ -1,6 +1,6 @@
 ---
 layout: category-post
-title:  "📦 r/WritingPrompts"
+title:  "Writing Prompt: Paket"
 date:   2024-02-29
 categories: writing
 tags:
