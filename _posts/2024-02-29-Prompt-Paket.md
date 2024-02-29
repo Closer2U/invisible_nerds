@@ -55,7 +55,7 @@ Aus der Schublade ziehe ich also eine riesige Schere, viel zu groß für den all
 Ich lege die Schere entschieden beiseite; mehr, um mich selbst zur Vernunft zu mahnen, als tatsächlich mit dem Ziel, sie wieder in der Schublade verschwinden zu lassen. Anstatt also das Paketband zu zerschneiden, genehmige ich mir noch einen großzügigen Schluck Bier.
 
 *Nah... Ich und erwachsen,* feixt mein Unterbewusstsein ohne Zeit zu vergeuden, *guter Witz!*
-- *Aber besser, als der mit der Gazelle*, lobe ich mich vorbei an der inneren Moralinstanz, heimlich, dennoch mit einem selbstzufriedenen Grinsen auf dem Gesicht. 
+*Aber besser, als der mit der Gazelle*, lobe ich mich vorbei an der inneren Moralinstanz, heimlich, dennoch mit einem selbstzufriedenen Grinsen auf dem Gesicht. 
 Mit der einen Hand platziere ich das Bier wieder an der Wand, während ich mit der anderen das Päckchen näher zu mir hole. Vielleicht kann ich ja wenigstens erraten, was drin ist?
 
 Mhh, sieht auf den ersten Blick unscheinbar aus, wie ein ganz normales Paket. Weiß. Ein Aufkleber mit Anschrift. Kein Absender. 
