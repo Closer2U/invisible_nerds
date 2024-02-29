@@ -11,6 +11,18 @@ tags:
 
 > Vor gut drei Monaten hast du ein Paket für einen Nachbarn angenommen. Da er sich bis heute nicht gemeldet hat, entscheidest du schließlich, der Neugier nachzugeben und es zu öffnen. Genau in dem Moment, in dem du den ersten Schnitt in das Paketband setzt, klingelt es an der Tür.
 
+## ✨ Statistiken für Nerds ✨ 🤓 
+
+|                          |   Werte |
+| :----------------------- | ------: |
+| Wörter                   |   5.300 |
+| geschätzte Lesezeit      |  22 min |
+| Zeit gesamt              | 17:15 h |
+| Dauer Erstentwurf        | 06:10 h |
+| Dauer Editierprozess     | 11:05 h |
+| TimePerThousand          |  3,25 h |
+
+
 # Story
 
 Meine Augen brennen, die Netzhaut mit Sandpapier abgeschmirgelt, vom angestrengten Starren auf den hell flackernden Monitor. Ich presse meine Handballen fester in die Augäpfel, doch selbst nach heftigem Wischen und Reiben und Blinzeln kann ich sie nicht zum Fokussieren bewegen. 
@@ -334,14 +346,4 @@ Damit macht sie kehrt ohne sich noch ein mal nach mir umzudrehen; stattdessen is
 Ich kann mich nicht von der Stelle rühren.
 *Himmel, dafür brauch' ich mehr Bier- ... Oder, um Gottes Willen, mach zwanzig Vodka Shots draus...*
 
-## ✨ Statistiken für Nerds ✨ ( 🤓 )
-
-|                          |   Werte |
-| :----------------------- | ------: |
-| Wörter                   |   5.300 |
-| geschätzte Lesezeit      |  22 min |
-| Zeit gesamt              | 17:15 h |
-| Dauer Erstentwurf        | 06:10 h |
-| Dauer Editierprozess     | 11:05 h |
-| TimePerThousand          |  3,25 h |
 
