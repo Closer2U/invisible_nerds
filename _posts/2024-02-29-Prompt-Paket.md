@@ -48,7 +48,7 @@ Naja, aber jetzt gerade? Irgendwie kitzelt es mir schon in den Fingerspitzen und
 
 Ach, was soll's, beschließe ich achselzuckend, was soll schon passieren? Schlimmstenfalls behaupte ich, nie ein Paket angenommen zu haben. Oder gebe einfach zu, dass ich zur Sicherheit nachsehen wollte, ob der Inhalt dringend/verderblich/sensibel/-na mir fällt da schon was ein - ist.
 
-Aus der Schublade ziehe ich also eine riesige Schere, viel zu groß für den alltäglichen Zweck. Aber sie war ein Scherz, den mir Freunde zum 30ten geschenkt haben. Ich hab sie behalten, obwohl sie dazu gedacht war, "endlich diesen grässlichen Vollbart loszuwerden." *Wow, das ist schon 'ne Weile her...Ich bin echt alt!
+Aus der Schublade ziehe ich also eine riesige Schere, viel zu groß für den alltäglichen Zweck. Aber sie war ein Scherz, den mir Freunde zum 30ten geschenkt haben. Ich hab sie behalten, obwohl sie dazu gedacht war, "endlich diesen grässlichen Vollbart loszuwerden." *Wow, das ist schon 'ne Weile her...Ich bin echt alt!*
 
 ...und erwachsene Menschen öffnen keine fremde Post! 
 
