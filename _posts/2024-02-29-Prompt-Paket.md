@@ -341,7 +341,7 @@ Ich kann mich nicht von der Stelle rühren.
 | Wörter                   |   5.300 |
 | geschätzte Lesezeit      |  22 min |
 | Zeit gesamt              | 17:15 h |
-| Dauer Erstentwurf        | 06:11 h |
+| Dauer Erstentwurf        | 06:10 h |
 | Dauer Editierprozess     | 11:05 h |
 | TimePerThousand          |  3,25 h |
 
