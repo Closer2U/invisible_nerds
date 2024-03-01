@@ -88,7 +88,7 @@ Nachdenklich kratze ich mich am Hinterkopf. Irgendwie ist das Klebeband auch zie
 
 Ich hebe es im Gesamten an, nur ein paar Zentimeter. Mit der anderen Hand muss ich allerdings nachgreifen, denn so schwer hatte ich es bei Weitem nicht in Erinnerung... Da könnten alles drin sein; kiloweise Gummibärchen oder 20 Schreibblöcke oder päckchenweise Vogelsand.
 
-So, jetzt reicht's! Ist mir nun auch egal! Genug rumgespielt. Ich bin doch keine Katze, die die Maus tanzen lässt, bevor sie sie frisst. Wenn der Ich-will-das-Paket-nicht Nachbar es bis jetzt nicht aufgekreuzt ist... Selbst schuld. 
+So, jetzt reicht's! Ist mir nun auch egal! Genug rumgespielt. Ich bin doch keine Katze, die die Maus tanzen lässt, bevor sie sie frisst. Wenn der Ich-will-das-Paket-nicht Nachbar bis jetzt nicht aufgekreuzt ist... Selbst schuld. 
 
 Ich stelle das geheimnisvolle Päckchen direkt vor mir ab, greife entschlossen nach der Schere und bevor mich mein Gewissen umstimmen kann, durchstoße ich mit der Spitze das erstaunlich harte Paketklebeband, ... <br>
 ... als mich die Türklingel aus meiner Kleinkriminellenkarriere reißt.
@@ -205,7 +205,7 @@ Sie fährt mir sofort dazwischen, ein Hauch von Panik in ihrer sonst so festen S
 "Nope," erwidere ich mit einem Anflug von Gelassenheit; zufrieden mit mir selbst, diese Verwechslung endlich aufgedeckt zu haben. Dann ist ja alles klar, da drüben ist die Tür.  <br>
 Ich hebe lässig die Schultern: "Hab ihn noch nie gesehen. Wohnt wahrscheinlich nicht mal mehr hier."
 
-Als ich die Emotionen sehe, die die Frau zu verbergen versucht, schwindet das selbstgefälliges Lächeln allerdings doch allmählich aus meinem Gesicht. In ihren Zügen kämpfen Fassungslosigkeit, Horror, Wut und eine Prise Furcht um die Überhand, bis sie schließlich in Erkenntnis verharren; und am Ende wieder zu ihrer Fassade aus Entschlossenheit zurückkehren.
+Als ich die Emotionen sehe, die die Frau zu verbergen versucht, schwindet das selbstgefällige Lächeln allerdings doch allmählich aus meinem Gesicht. In ihren Zügen kämpfen Fassungslosigkeit, Horror, Wut und eine Prise Furcht um die Überhand, bis sie schließlich in Erkenntnis verharren; und am Ende wieder zu ihrer Fassade aus Entschlossenheit zurückkehren.
 
 Ihre Stimme ist um gute zehn Grad kälter, distanzierter, als sie verkündet: "Nun gut. Dann haben wir ein ernst zu nehmendes Problem." <br>
 Und mir wird schlagartig klar, dass ich aus der Nummer doch nicht so leicht rauskomme, wie gerade eben noch gedacht.
@@ -286,7 +286,7 @@ Als führten wir eine Unterhaltung darüber, dass ich Spiegelei zum Frühstück 
 *Diese FRAU*! <br>
 "Ich kann nicht einfach-- nicht einfach *nicht* auftauchen!" Was sie da erwartet ist einfach nur lächerlich. "Dann werd' ich schneller gefeuert, als ich einen neuen Job finden kann! Und - wohin um alles in der Welt sollte ich eigentlich einer Frau folgen, die ich noch nie in meinem Leben gesehen habe? Die bei mir *eingebrochen* ist!"
 
-Jegliche Chance einer Antwort verhallt in ihrem sarkastischen Schnauben.  Sie gabelt die Sporttasche vom Boden auf, schiebt sich, ohne meine Blicke zu erwider, an mir vorbei und navigiert sicheren Schrittes in die Küche. So, als wäre sie nicht das erste Mal hier, als wüsste sie genau, welcher Raum sich wo befindet. So vertraut. So bekannt.
+Jegliche Chance einer Antwort verhallt in ihrem sarkastischen Schnauben.  Sie gabelt die Sporttasche vom Boden auf, schiebt sich, ohne meine Blicke zu erwidern, an mir vorbei und navigiert sicheren Schrittes in die Küche. So, als wäre sie nicht das erste Mal hier, als wüsste sie genau, welcher Raum sich wo befindet. So vertraut. So bekannt.
 
 "Komm!", ruft sie aus dem Nebenzimmer, "Wir müssen los. Wir können nicht noch mehr Zeit vergeuden."
 
@@ -297,15 +297,15 @@ Die Hände betont in den Hosentaschen vergraben, schlürfe ich absichtlich langs
 Etwas schweres landet dumpf auf dem Boden. Nur Augenblicke später klackern Absätze über das Parkett, kommen zurück in den Flur, auf mich zu. Sie starrt meinen Widerstand gekonnt nieder, packt mich am Oberarm und zerrt mich dann mehr hinter sich her, als dass ich freiwillig laufe. <br>
 "Diese Brücke überqueren wir, wenn es so weit ist", verkündet sie entschieden, als wäre das die zufriedenstellende Antwort, nach der ich die ganze Zeit gesucht habe.
 
-"Nein!" Vehement stemme ich mich gegen ihren Starken Griff, bis sie tatsächlich von mir ab lässt, "Nein! Ich bin nicht der Richtige für diesen ... *Job*." Ja, so viel ist klar. Ich massiere meinen Bizeps, auf dem morgen bestimmt blaue fingerabdruckförmige Flecken als Zeugen des heutigen Tages prangen werden, "Können Sie nicht diesen... Janus Weiß suchen und *ihn* mitnehmen? Ich kann und ich will hier nicht weg! Und der ist mit *Sicherheit* vorbereitet; besser, als ich auf jeden Fall."
+"Nein!" Vehement stemme ich mich gegen ihren starken Griff, bis sie tatsächlich von mir ab lässt, "Nein! Ich bin nicht der Richtige für diesen ... *Job*." Ja, so viel ist klar. Ich massiere meinen Bizeps, auf dem morgen bestimmt blaue fingerabdruckförmige Flecken als Zeugen des heutigen Tages prangen werden, "Können Sie nicht diesen... Janus Weiß suchen und *ihn* mitnehmen? Ich kann und ich will hier nicht weg! Und der ist mit *Sicherheit* vorbereitet; besser, als ich auf jeden Fall."
 
-Ihre Blicke mustern mich von oben bis unten, offenbar betrachtet sie mich zum ersten Mal seit ihrem Eintreffen in meiner gesamten, unsportlichen Pracht. Einiges hat sich seit der Schulzeit nicht geändert: ich werde ich immer noch als letzter in ein Team gewählt und das Schlimmste, das man von mir verlangen kann, ist einen Ausdauerlauf zu rennen. <br>
+Ihre Blicke mustern mich von oben bis unten, offenbar betrachtet sie mich zum ersten Mal seit ihrem Eintreffen in meiner gesamten, unsportlichen Pracht. Einiges hat sich seit der Schulzeit nicht geändert: ich werde immer noch als letzter in ein Team gewählt und das Schlimmste, das man von mir verlangen kann, ist einen Ausdauerlauf zu rennen. <br>
 Das realisiert nun auch sie, wenn ich ihre hochgezogenen Augenbrauen richtig interpretiere. 
 
 "... das ist auch nicht schwer," kommentiert sie ohne Spur von Humor, mit einer ausladenden Geste auf meine Mitte.
 
-Von der einer Sekunde zur anderen entspannt sich ihre Mimik, da huscht fast etwas wie Mitgefühl über ihr Gesicht. Sie streckt eine Hand aus, legt sie auf meiner Schulter ab. Diesmal jedoch nicht, um sie fest zu packen, sondern eher freundschaftlich, vielleicht sogar ermutigend und ihre Stimme wird weicher, als ich sie bis jetzt gehört habe: <br>
-"Du weiß wirklich von nichts, hmm?"
+Von der einen Sekunde zur anderen entspannt sich ihre Mimik, da huscht fast etwas wie Mitgefühl über ihr Gesicht. Sie streckt eine Hand aus, legt sie auf meiner Schulter ab. Diesmal jedoch nicht, um sie fest zu packen, sondern eher freundschaftlich, vielleicht sogar ermutigend und ihre Stimme wird weicher, als ich sie bis jetzt gehört habe: <br>
+"Du weißt wirklich von nichts, hmm?"
 
 Meine verständnislosen Blicke fragen, *wovon?!*
 
@@ -313,7 +313,7 @@ Sie seufzt. Ich muss der langsamste, unnützeste... Schüler sein, den sie je zu
 
 "Das Paket-?" Sie zeigt mit dem Daumen nach hinten in Richtung Küche, "besitzt ein genetisches Schloss. Wer das Siegel bricht," sie zuckt ungerührt mit den Schultern, als wäre es der normalste Fakt der Welt, "ist auch die Person, die das Portal durchquert."
 
-Sie redet weiter, aber ich bin schon ausgestiegen, als sie behauptet, dass in diesem lächerlich kleinen Paket ein Portal sein soll, das ich aktiviert hätte und das jetzt auf meinen genetischen Code programmiert wäre. 
+Sie redet weiter, aber ich bin schon ausgestiegen, als sie behauptet, dass in diesem lächerlich kleinen Paket ein Portal sein soll, das ich aktiviert hätte und das jetzt auf meinen genetischen Code programmiert wäre. <br> 
  "Portal...?...*Durchqueren*?", stammle ich in ihre weiteren Erklärungen hinein, vollkommen unfähig, mit den Entwicklungen Schritt zu halten.
 
 Paket.   <br>                        ... Portal.. ... . ... D-    ...        Durchqueren.
@@ -330,7 +330,7 @@ und überhaupt...-  <br>
 
 "Natürlich durchqueren. Das Portal bringt uns nach Vestibulus Prime. Wie hast du denn gedacht, kommen wir dort hin?!"
 
-Unüberlegt plauze ich mit dem ersten heraus, das mir durch die Gedanken schießt: "...Zug...?" und bereur es schon im nächsten Moment.
+Unüberlegt plauze ich mit dem ersten heraus, das mir durch die Gedanken schießt: "...Zug...?" und bereue es schon im nächsten Moment.
 
 Sie hält inne, legt den Kopf schief, bedenkt mich mit einem verständnislosen Blick, "Was beim Weißen Jäger des Prius ist ein Z-U-G?!"
 
@@ -339,10 +339,10 @@ Dann springt, tanzt, hallt die eine Frage immer und immer wieder durch mein Gehi
 
 "WerzurHölle *SIND* Sie?!" 
 
-Die Frau mit der seltsamen Frisur und der viel zu schicken Kleidung für eine inter...dimensionale? inter-galaktische? Reise kommentiert das nur unbekümmert mit einem *Erklärungen werden warten müssen.* <br>
+Die Frau mit der seltsamen Frisur und der viel zu schicken Kleidung für eine inter...dimensionale? inter-galaktische? Reise kommentiert das nur unbekümmert mit einem "*Erklärungen werden warten müssen.*" <br>
 "Wir müssen los. Jetzt!"
 
-Damit macht sie kehrt ohne sich noch ein mal nach mir umzudrehen; stattdessen ist sie sich offenbar sehr sicher, dass ich ihr in zu dem Portal folgen werde. <br>
+Damit macht sie kehrt ohne sich noch ein mal nach mir umzudrehen; stattdessen ist sie sich offenbar sehr sicher, dass ich ihr zu dem Portal folgen werde. <br>
 Ich kann mich nicht von der Stelle rühren. <br>
 *Himmel, dafür brauch' ich mehr Bier- ... Oder, um Gottes Willen, mach zwanzig Vodka Shots draus...*
 
