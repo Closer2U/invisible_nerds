@@ -56,7 +56,7 @@ tags:
 | Prompt |  |  |
 |:--------|------|----|
 | "You're alive!" *Oh* "I survived?!" - FUCK! | vs. | "Good, you're alive." "I survived?" Damn. |
-| Wir können leben, ohne zu lachen. | vs. | Können wir Lachen, ohne zu leben. |
+| Wir können leben, ohne zu lachen. | vs. | Können wir lachen, ohne zu leben. |
 
 
 # Misc.
@@ -98,7 +98,7 @@ tags:
 [^3]: Keller/Dunkelheit:
 
         In Dunkelheit geboren. 
-        Kein Entkommen, 
-        aber *wem* du durch die Nacht folgst, 
+        Kein Entkommen. 
+        Aber *wem* du durch die Nacht folgst, 
         entscheidest du selbst.
 
