@@ -1,11 +1,13 @@
 ---
 layout: category-post
-title:  "Poetry Slam: "
+title:  "Poetry Slam: Im Angesicht dessen, was uns verzehrt"
 date:   2024-07-10
 categories: writing
 tags:
     - poetryslam
 ---
+
+## Kriege in uns
 
 <div align="center">
   
