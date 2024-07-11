@@ -26,9 +26,10 @@ und doch fürchte ich sie nicht.<br>
 <br>
 Angesicht zu Angesicht  <br>
 kalte Augen, leere Blicke  <br>
-Nichts zu verlieren  <br>
-Frieden scheint  <br>
-es hier nicht zu geben,  <br>
+Nichts <br>
+zu verlieren - <br>
+Frieden scheint es hier <br>
+nicht zu geben,  <br>
 nicht für mich.<br>
 <br>
 <br>
@@ -48,15 +49,17 @@ traue ich mich nicht  <br>
 anzugreifen  <br>
 gelähmt  <br>
 zähle ich  <br>
-von zehn rückwärts,  <br>
+rückwärts  <br>
+von zehn, <br>
 dann von zwanzig  <br>
-suche nach Mut  <br>
-nach Stärke, die ich  <br>
-irgendwo unterwegs  <br>
+suche nach Mut,  <br>
+nach Stärke,  <br>
+die ich irgendwo unterwegs  <br>
 verloren habe.  <br>
 Das Beben in mir  <br>
 lässt meine Gabel zittern,  <br>
-mein Messer fällt zu Boden,  <br>
+mein Messer   <br>
+fällt zu Boden, <br>
 höhnendes, schallendes Gelächter:  <br>
 <i>ob ich die Rebellion denn alleine führte  <br>
 -- wie lächerlich!</i>  <br>
@@ -67,12 +70,12 @@ vor ungeweinter Wut,  <br>
 aber ich sage nichts,<br>
 bewege mich nicht,  <br>
 sterbe nicht.  <br>
-Hab noch nicht aufgegeben.  <br>
+Hab noch nicht aufgegeben -  <br>
 Kämpfe vielleicht nicht mehr für dieses Leben  <br>
 aber das nächste.<br>
 <br>
 <br>
-Meine Gabel sinkt,  <br>
+Meine Gabel sinkt;  <br>
 hebt sich,  <br>
 hebt sich höher  <br>
 zu Drohen,  <br>
@@ -137,7 +140,7 @@ ohne Sinn  <br>
 und Verstand.  <br>
 Alle Messer und Gabeln  <br>
 und Löffel begraben,  <br>
-darin Erlösung zu finden ;  <br>
+darin Erlösung zu finden;  <br>
 -- die niemals kommt;  <br>
 die mich nicht verschont  <br>
 vor meinen eigenen Geistern.<br>
@@ -199,11 +202,11 @@ alle Ressourcen auf  <br>
 Kampf und Krieg und  <br>
 Militär verwende,  <br>
 alle Energie verschwende  <br>
-ändert es nichts.  <br>
+ändert es <u>nichts</u>.  <br>
 <i>Denn was tot ist  <br>
 bleibt tot.</i>  <br>
 Auch, wenn das Schlachtfeld  <br>
-genug Ablenkung biete,  <br>
+genug Ablenkung bietet,  <br>
 zu vergessen  <br>
 und ewig zu suchen,  <br>
 ohne zu finden,  <br>
