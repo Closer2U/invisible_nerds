@@ -6,13 +6,13 @@ description: A static site where stories come to life.
 # social
 social_link: github
 social_username: Closer2U
-github_repo: invisible_nerds # the GitHub repo name for your project
+github_repo: invisiblenerds # the GitHub repo name for your project
 github_username: Closer2U
 theme_color: black
 
 # Theme
 remote_theme: 'internet-de-france/swiss'
-baseurl: '/invisible_nerds'
+baseurl: '/invisiblenerds'
 
 # Defaults
 
