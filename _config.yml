@@ -14,7 +14,7 @@ plugins:
 
 # Theme
 remote_theme: 'broccolini/swiss'
-baseurl: '/invisiblenerds'
+baseurl: '/'
 
 # Defaults
 
