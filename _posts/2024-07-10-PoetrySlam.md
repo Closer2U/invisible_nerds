@@ -81,7 +81,7 @@ hebt sich höher  <br>
 zu Drohen,  <br>
 zum Widerstand  <br>
 -- haben wir beide jetzt endlich erkannt,  <br>
-wie mitleiderregend meine Proteste  <br>
+wie mitleiderregend deine Proteste  <br>
 in Wirklichkeit sind?<br>
 <br>
 <br>
